@@ -1,5 +1,5 @@
 # Fantasy Football SV 
-Fantasy Football SV is a fantasy football application that uses the Bitcoin SV blockchains as the backend.
+Fantasy Football SV is a fantasy football application that uses the Bitcoin SV blockchain as the backend.
 
 ## MVP
 
