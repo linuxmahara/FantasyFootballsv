@@ -1,0 +1,47 @@
+{
+  "name": "fantasyfootballsv",
+  "version": "1.0.0",
+  "description": "Fantasy Football on Bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "ts-node actors/server/actor.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonbryant12/FantasyFootballsv.git"
+  },
+  "keywords": [
+    "fantasy",
+    "football",
+    "bitcoin",
+    "bsv",
+    "satoshi",
+    "vision"
+  ],
+  "author": "Brandon Robert Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonbryant12/FantasyFootballsv/issues"
+  },
+  "homepage": "https://github.com/brandonbryant12/FantasyFootballsv#readme",
+  "dependencies": {
+    "@hapi/basic": "^5.1.0",
+    "cron": "^1.7.1",
+    "dotenv": "^8.0.0",
+    "espn-fantasy-football-api": "^0.11.0",
+    "hapi": "^18.1.0",
+    "hapi-swagger": "^10.0.2",
+    "inert": "^5.1.3",
+    "joi": "^14.3.1",
+    "moment": "^2.24.0",
+    "pg": "^7.11.0",
+    "sequelize": "^5.10.1",
+    "sequelize-cli": "^5.5.0",
+    "superagent": "^5.1.0",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3",
+    "vision": "^5.4.4",
+    "winston": "^3.2.1"
+  }
+}
