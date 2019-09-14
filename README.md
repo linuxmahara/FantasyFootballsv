@@ -17,11 +17,12 @@ run api with
 
 `npm start`
 
-returns matchups for week 1 for league 272466
+//returns matchups for week 1 for league 272466
 
 `http://0.0.0.0:3000/api/matchups/1/272466`
 
-returns teams for leage 2724666
+//returns teams for leage 2724666
+
 `http://0.0.0.0:3000/api/teams/272466`
 
 
