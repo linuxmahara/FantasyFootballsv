@@ -11,11 +11,11 @@ This is all hidden from the user and all they will see is a `moneybutton` button
 
 ### API 
 
+`npm install` 
+
 run api with 
 
 `npm start`
-
-endpoints
 
 returns matchups for week 1 for league 272466
 
