@@ -22,7 +22,7 @@ const start =  async function() {
       cors: true,
       files:{
 
-        relativeTo: Path.join(__dirname, '../sports-app/dist')
+      relativeTo: Path.join(__dirname, '../../front-end/build')
 
       }
 

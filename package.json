@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "start": "ts-node actors/server/actor.ts"
+    "start": "cd front-end && npm run-script build && cd .. && ts-node actors/server/actor.ts"
   },
   "repository": {
     "type": "git",
